@@ -3,7 +3,7 @@ This is an alternative server that uses OpenAI API instead of infinite craft's i
 
 ## Installation
 1. Install tampermonkey
-2. Go to https://github.com/YuraSuper2048/infinite-craft-gpt-server/raw/main/interceptor.js and install the userscript
+2. Go to https://github.com/YuraSuper2048/infinite-craft-gpt-server/raw/main/interceptor.user.js and install the userscript
 3. Clone the repository (make sure you have git installed in your system)
 ```sh
 git clone https://github.com/YuraSuper2048/infinite-craft-gpt-server
