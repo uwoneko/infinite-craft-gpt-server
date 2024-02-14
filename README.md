@@ -23,5 +23,7 @@ uvicorn server:app
 
 ## Notes
 GPT 4 is kinda too smart and it will do things that actually make sense, so its much harder to reach things
+
 If you wanna "hard code" some result just put it into SYSTEM_PROMPT in server.py
+
 I think the original used a fine tuned model so i assumed GPT 4 may be not the best at it but it works surprizingly well...
