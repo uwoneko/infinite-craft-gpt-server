@@ -1,0 +1,8 @@
+# your openai api key here
+api_key = "sk-xxx"
+# uncomment if you use a reverse proxy
+# api_base = "https://api.openai.com/v1" 
+# change to the latest model if you are in the future or to gpt-3.5-turbo if you dont have gpt 4
+model = "gpt-4-turbo-preview" 
+# set to true if you want "first discovery" to appear each time you hit an item that is not in the cache
+discovery_enabled = false 

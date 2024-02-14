@@ -57,6 +57,7 @@ async def pair(first: str, second: str):
 
     result = {"result": lines[0], "emoji": lines[1]}
     set_cache((first, second), result)
-    result["isNew"] = True
+    if "discovery_enabled" in config and config["discovery_enabled"]:
+        result["isNew"] = True
     return result
 
