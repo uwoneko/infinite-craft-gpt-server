@@ -1,0 +1,30 @@
+{
+    "Earth, Island": {
+        "result": "Continent",
+        "emoji": "\ud83c\udf0e"
+    },
+    "Earth, Wind": {
+        "result": "Dust",
+        "emoji": "\ud83d\udca8"
+    },
+    "Fire, Wind": {
+        "result": "Wildfire",
+        "emoji": "\ud83d\udd25"
+    },
+    "Fire, Wildfire": {
+        "result": "Inferno",
+        "emoji": "\ud83d\udd25"
+    },
+    "Fire, Inferno": {
+        "result": "Sun",
+        "emoji": "\u2600\ufe0f"
+    },
+    "Fire, Sun": {
+        "result": "Solar Flare",
+        "emoji": "\u2600\ufe0f"
+    },
+    "Fire, Solar Flare": {
+        "result": "Sun",
+        "emoji": "\u2600\ufe0f"
+    }
+}
